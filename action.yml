@@ -1,5 +1,5 @@
-name: 'Container Images Sync Tools'
-description: 'Container Images Sync Tools'
+name: 'Container Images Sync Tool'
+description: 'Container Images Sync Tool'
 author: 'admin <admin@china.cn>'
 inputs:
   GIT_TOKEN:
