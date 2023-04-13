@@ -6,11 +6,6 @@ Repository Address: [https://hub.docker.com/u/{{ dest_repo }}/](https://hub.dock
 Useage
 -------
 
-From gcr.io:
-```bash
-docker pull {{ src_repo }}/image:v1.0.0
-```
-
 From docker hub Mirrors:
 ```bash
 docker pull {{ dest_repo }}/image:v1.0.0
